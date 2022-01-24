@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[How to integrate Next.js with Fauna using React Query](https://dev.to/ghoshnirmalya/how-to-integrate-next-js-with-fauna-using-react-query-7o4)
+
 This is a boilerplate for building applications using Fauna, React Query and Next.js.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
